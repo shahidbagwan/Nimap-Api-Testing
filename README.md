@@ -4,13 +4,13 @@ This repository contains the API testing results for the Authentication and Cust
 
 ## APIs Tested
 
-✔️ Login API (Valid Case)
+ Login API (Valid Case)
 
-✔️ Login API (Invalid Case)
+ Login API (Invalid Case)
 
-✔️ Add Lead API
+ Add Lead API
 
-✔️ Add Customer API
+ Add Customer API
 
 ### Postman Setup
 1️. Collection
