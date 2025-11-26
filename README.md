@@ -1,43 +1,47 @@
 # Nimap-Api-Testing
 
+This repository contains the API testing results for the Authentication and Customer/Lead modules of the Test Field Force (TFF) Web Application.
 
-API testing performed for the Authentication and Customer/Lead modules of the TestFF Web Application.
+📌 APIs Tested
 
-APIs Tested
+✔️ Login API (Valid Case)
 
-Login API (Valid & Invalid)
+✔️ Login API (Invalid Case)
 
-Add Lead / Add Customer API
+✔️ Add Lead API
 
-Postman Setup
-1. Collection
+✔️ Add Customer API
 
-Download and import the Postman collection:
-TestFF API Test.postman_collection.json
+🛠️ Postman Setup
+1️⃣ Collection
 
-2. Environment
+Download the file: TestFF API Test.postman_collection.json
+Import it into Postman → Collections
 
-Download and import the Postman environment file:
-TestFF.postman_environment.json
+2️⃣ Environment
 
-Testing Includes
+Download the file: TestFF.postman_environment.json
+Import it into Postman → Environments
 
-Positive & Negative API Scenarios
+🧪 Testing Coverage
 
-Status Code Verification
+Status Code Validation
+
+Positive & Negative Flow Testing
 
 Response Body Validation
 
-Header Validation
+Token & Header Validation
 
-Authentication Token Handling
+Error Message Verification
 
-Error Message Validation
+Field-Level Input Validation
 
-Files Included
+📂 Files Included
 
 Postman Collection
 
 Postman Environment
 
+API Test Summary (if attached)
 
